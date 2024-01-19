@@ -1,11 +1,12 @@
 /* ==UserStyle==
 @name           2017-2020 Microsoft Signup & Login
 @namespace      github.com/openstyles/stylus
-@version        1.0.2
+@version        1.0.2a
 @description    Restores the old Microsoft signup and login pages primarily from 2018
 @author         MX-Mic
 @preprocessor less
 @var          checkbox   HideUpdates                  "Remove Updates"                        1
+@license mpl-2
 ==/UserStyle== */
 
 
