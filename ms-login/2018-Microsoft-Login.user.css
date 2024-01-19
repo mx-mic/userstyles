@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           2017-2020 Microsoft Signup & Login
 @namespace      github.com/openstyles/stylus
-@version        1.0.1
+@version        1.0.2
 @description    Restores the old Microsoft signup and login pages primarily from 2018
 @author         MX-Mic
 @preprocessor less
@@ -43,14 +43,14 @@
     margin-right: 8px;
 }
 #ftrTerms::before {
-    content: '©2024 Microsoft '; /* Add your desired text here */
+    content: '©2024 Microsoft ';
     display: inline-block;
-    margin-right: 2em; /* Adjust as needed to create space */
+    margin-right: 1.5em;
 }
     #terms::before {
-    content: '©2024 Microsoft '; /* Add your desired text here */
+    content: '©2024 Microsoft ';
     display: inline-block;
-    margin-right: 1.5em; /* Adjust as needed to create space */
+    margin-right: 1.5em;
 }
    .table {
   & when (@HideUpdates = 1) {
