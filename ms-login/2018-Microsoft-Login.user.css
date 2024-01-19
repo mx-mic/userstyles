@@ -49,7 +49,7 @@
     #terms::before {
     content: '©2024 Microsoft '; /* Add your desired text here */
     display: inline-block;
-    margin-right: 2em; /* Adjust as needed to create space */
+    margin-right: 1.5em; /* Adjust as needed to create space */
 }
    .table {
   & when (@HideUpdates = 1) {
