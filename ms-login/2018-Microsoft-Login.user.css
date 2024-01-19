@@ -1,12 +1,13 @@
 /* ==UserStyle==
-@name           login.live.com - Jan 2024
+@name           2017-2020 Microsoft Signup & Login
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description    A new userstyle
-@author         Me
+@version        1.0.1
+@description    Restores the old Microsoft signup and login pages primarily from 2018
+@author         MX-Mic
 @preprocessor less
 @var          checkbox   HideUpdates                  "Remove Updates"                        1
 ==/UserStyle== */
+
 
 @-moz-document url-prefix("https://login.live.com/"), url-prefix("https://signup.live.com"), url-prefix("https://login.microsoftonline.com") {
     #backgroundImage.ext-background-image, #cnvCtrlBgImg {
